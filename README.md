@@ -11,8 +11,8 @@ The overall framework of CASTR. (a) Relational Structure Embedding Module. (b) R
 
 **Step1** Create a virtual environment using ```Anaconda``` and enter it
 ```bash
-conda create -n carst python=3.8
-source activate carst
+conda create -n castr python=3.8
+source activate castr
 ```
 
 **Step2** Install package
